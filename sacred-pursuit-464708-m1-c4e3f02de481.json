@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sacred-pursuit-464708-m1",
+  "private_key_id": "c4e3f02de481ba5ad47125fcfa1db40ae1f1406d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCbfEcikYzDrPrR\nTwQ5Y/1ssz4ec4ZE7k0lJgUvqDbRFqDgL9muc1tvAYwLYY0O0rWoozVhoYhysIy3\nDOu0TEj13+1onBaCdDptpNfTAbsj2pDVLRbsHzX8+QRkuf+JSxRjO6f9FesjqWtW\n1A2XbIv41+/B3WZ/KOt6nqOg67IhQsODWpPzb7Li5oPiyjp6Z1T6gQfRenH3usPm\n1EAsrLWq0nD4pv36Tx08ISme74uAPBraKAOwNPNu1lCFVD+z1NZcFfj8LvBrO1WE\n5ru0L7CDBGh860mZZVVmpUoQ/auwA0KwoDCzKDiNkhBnLI7ypyUOTDPTEzpdl/VD\nLO6bVeQrAgMBAAECggEAC4ybrBGrpw0+RDXeVnT66gwWXSSvoIci69N7JyMTj0xi\n/sQPI0omTISM5nuEgslb/P7ChFH/VKWQjjhDec0AzmKnu9F8Soxfmq1X6rCCOhOO\nFoeW4EshM307uk+mj4goJ4bS35W1NZzsADMYH1tMulsvz/KmHmPnud/2v4lCXf39\n2UAj/Deps7bzv0SIArfkqZH+lSAG7tZffEx9TGUKMJDn3o8V2fO39k99Skwye/FU\nvKDRQIJK25PvY3N8bVEDT/JG7nGd+Z9/mG5Z7H+wCTm8p/X6ZPe2B1Fly+ayoQJH\nwadbKsqGhHuC23ToKEsBpD8sAIPP5iBAwUaIsTiOoQKBgQDWHWx/Fe63D8VF+Tlr\n9Qv0h48Qp4frgs83L/1TlBcidN1EM7JTKRP15fQajw25rnmInnSqqfHSrxC4XXms\ndU+MFD/AcjatBMb8W0HCI+8lJXuYwwNiNZoIh5gW2w72VtJddNDe9tj4Cl/9wGFk\nTfEpFQleaMzQof9YxGSzLhf4XQKBgQC55sWg8RXQGp2WxmwIaFVPH4FrHWY3bG/z\nOeQXrAYwQqBhLOzc06w5HCW3q+LUi+61rg0R2vQRgVxC/q8J118u4lzn74qlrNhp\nku3X96lFsL24tVmUxsKEqn5PwBvNIj2vzq7htvY0J1/28G4AFsQvwobDww3OY97t\nnHq3+AJmJwKBgQCnj+9QpYFjkdv4nsnpSqRIga3cgr9D9+LidZPyzHouZPakYTC1\nE/ii/4rBHiLHpVtHJ3p19Pliv859+ek2pbfTECW0Ha3cSVjQNTqJDEYi8+p96l/D\ng98/vZ2whU54SgnnSXwMgXHa64OjueJ99OE+HVBvqeRfgeerOEb2UqQ/oQKBgQC4\nnF3CF+grg2Lf6ig6qTGeo5DoCIgLnhoGloTWpTR4FJIkLnMCUQqEpFkobv+RR21E\n6pV8F82s3KP8u+KjiUeyzYSpp44uPNmk7g5YHE/zLzMZDK7rOf7NtGo/VG3HZquP\nvVaaPBF/dWKtXdI/MFyfeTRPj5JUVYV6vZx4uUfYnQKBgHX/pSf1zycxFeDkcIoN\nZHd1hxIT1pBPXoj+Ecv3BjsZ7GoO5OHH/MYar/f9XCpoOEWSOTFuhT8GTkuFA6DH\nV8jeTnmP/YsumqDkFFN5e/GOgQiDd6wg7P3FkqPInEh0knGvqEILr5nrCNee7TJX\nVMEkNC54wvY+1VU5gJP/33WP\n-----END PRIVATE KEY-----\n",
+  "client_email": "thothgpt@sacred-pursuit-464708-m1.iam.gserviceaccount.com",
+  "client_id": "108506203178671729320",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/thothgpt%40sacred-pursuit-464708-m1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
